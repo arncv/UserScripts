@@ -69,9 +69,3 @@ This project is licensed under the [MIT License](/LICENSE). You are free to modi
 ---
 
 Feel free to customize and modify these UserScripts to suit your specific needs. You can also contribute to the project by submitting pull requests or reporting issues on the [GitHub repository](https://github.com/arncv/UserScripts).
-
-
-
-
-
-
